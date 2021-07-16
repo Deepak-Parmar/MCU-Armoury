@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Tesseract",
+        "image": "tesseract.jpg",
+        "gif": "tesseract.gif",
+        "desc": "The Tesseract, also called the Cube, was a crystalline cube-shaped containment vessel for the Space Stone, one of the six Infinity Stones that predate the universe and possess unlimited energy. It was used by various ancient civilizations before coming into Asgardian hands, kept inside Odin's Vault. Eventually, it was brought to Earth and left in Tønsberg, where it was guarded by devout Asgardian worshipers."
+    },
+
+    {
+        "name": "Mjølnir",
+        "image": "mjolnir.jpg",
+        "gif": "mjolnir.gif",
+        "desc": "Mjølnir was a powerful enchanted war-hammer forged by the Dwarves for the Asgardian Royal Family, and was used by Odin before he passed it down to Hela and then Thor. The hammer was used extensively by Thor as his primary weapon until it was destroyed by Hela in 2017 after she was freed from Hel."
+    },
+
+    {
+        "name": "Infinity Gauntlet",
+        "image": "infinity-gauntlet.jpg",
+        "gif": "infinity-gauntlet.gif",
+        "desc": "The Infinity Gauntlet was a powerful Dwarven-made Uru glove that was designed to channel the power of all six Infinity Stones. Thanos brandished the Infinity Gauntlet on his left hand and forearm, inserting the stones one-by-one as soon as he acquired them. Upon acquiring the Power Stone from the Nova Corps Vault on Xandar, Thanos attacked the Statesman. Thanos used the Power Stone to torture Thor in order to force Loki to give up the Space Stone."
+    },
+
+
+    {
+        "name": "Captain America's Shield",
+        "image": "captain-america-shield.png",
+        "gif": "shield.gif",
+        "desc": "Captain America's Shield is a vibranium shield that was extensively used by Steve Rogers. After the original shield was destroyed by Thanos during the Battle of Earth, Rogers traveled to an alternate timeline and brought another shield, which he bestowed to Sam Wilson. However, Wilson elected to donate the shield to the Smithsonian's Captain America exhibit, where it was taken by the U.S. government and given to John Walker, the second Captain America. In the aftermath of Walker publicly murdering a man with the shield, it was forcibly retrieved by Wilson and Bucky Barnes, with Wilson finally deciding to use the shield as Captain America."
+    },
+
+    {
+        "name": "Casket of Ancient Winters",
+        "image": "casket-of-ancient-winters.png",
+        "gif": "coaw.gif",
+        "desc": "The Casket of Ancient Winters was a relic and weapon that once belonged to the Frost Giants of Jotunheim who used it to vanquish enemy armies and conquer enemy realms. It is capable of producing and projecting an infinite icy wind that can freeze whole landscapes and plunge an entire world into a new ice age. It was captured by the Einherjar of Asgard and sealed in Odin's Vault before being stolen by Loki. It would later be destroyed along with the rest of Odin's Vault during the Destruction of Asgard (Ragnarok)."
+    },
+
+    {
+        "name": "The Scepter",
+        "image": "scepter.jfif",
+        "gif": "scepter.gif",
+        "desc": "The Scepter, occasionally referred to as Loki's Scepter, was a staff weapon that served as the original containment vessel for the Mind Stone, one of the six Infinity Stones. Gifted by Thanos, the staff was wielded by Loki to lead and command the Chitauri Invasion to Earth. After the Battle of New York, the Scepter was confiscated by HYDRA, whose scientists used it to give extraordinary powers to the twins Wanda and Pietro Maximoff. Following HYDRA's defeat, the Scepter was retrieved by the Avengers who took it to Avengers Tower where Tony Stark experimented on it to complete the Ultron Program. The Scepter was taken and dismantled by Ultron after shattering its blue gem casing, which in the process revealed the Mind Stone inside."
+    },
+
+    {
+        "name": "Stormbreaker",
+        "image": "stormbreaker.png",
+        "gif": "stormbreaker.gif",
+        "desc": "Stormbreaker is an enchanted axe of Dwarvian manufacture, forged from Uru on Nidavellir with the ability to summon the Bifrost. After Mjølnir's destruction, the weapon was used by Thor. Stormbreaker was designed by the dwarves of Nidavellir to be the greatest weapon in Asgard's history, designed for their king and capable of summoning the Bifrost Bridge on its own."
+    },
+
+    {
+        "name": "Eye of Agamotto",
+        "image": "eye-of-agamotto.jpg",
+        "gif": "eye-agamotto.gif",
+        "desc": "The Eye of Agamotto was a powerful relic created by Agamotto, the first Sorcerer Supreme, as a containment device for the Time Stone. The Eye became an heirloom, being passed from Sorcerer Supreme to Sorcerer Supreme for thousands of years. The Eye has the ability to manipulate the flow of time and was used by Doctor Strange to fight Kaecilius and Dormammu and restore the Hong Kong Sanctum. It was placed back in Kamar-Taj until Strange could learn how to control it. The Eye was destroyed by Thanos during the Battle of Titan, although the Time Stone was removed and hidden by Strange prior to the battle."
+    },
+
+    {
+        "name": "Orb",
+        "image": "orb.png",
+        "gif": "orb.gif",
+        "desc": "The Orb was an ancient artifact that housed the Power Stone, one of the six Infinity Stones, the remnant of a singularity that predated the universe. The Power Stone was a powerful weapon capable of granting its wielder great, cosmic power, but was highly likely to kill any organic beings that touched it. It was used by Eson the Searcher until it was hidden for millennia on the planet Morag."
+    }
+]

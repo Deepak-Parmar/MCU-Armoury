@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'BentonSans Comp Black';
+  src: url("../fonts/BentonSans Comp Black Regular.otf");
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Roboto Condensed';
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Roboto Condensed';
+}
+
+h3 {
+  margin: 0;
+  font-family: 'Roboto Condensed';
+}
+
+h4 {
+  margin: 0;
+  font-family: 'Roboto Condensed';
+}
+
+h5 {
+  margin: 0;
+  font-family: 'Roboto Condensed';
+}
+
+body {
+  background-color: #202020;
+  color: #FEFEFE;
+}
+
+a {
+  font-family: 'Roboto Condensed';
+  color: darkgray;
+}
+
+a:hover {
+  color: #FEFEFE;
+}
+
+p {
+  font-family: 'Roboto Condensed';
+  font-size: 1.3rem;
+}
+
+#header {
+  font-family: 'BentonSans Comp Black';
+}
+
+#header .title h1 {
+  font-family: 'BentonSans Comp Black';
+  letter-spacing: -1.5px;
+}
+
+#main .subtitle {
+  font-family: 'Roboto Condensed';
+  color: #FEFEFE;
+}
+
+#main .product-tile {
+  max-height: 300px;
+  max-width: 300px;
+  min-height: 300px;
+  min-width: 300px;
+  background-color: grey;
+}
+
+#main .product-tile img {
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+#main .product-tile:hover img {
+  height: 105% !important;
+}
+
+#footer {
+  font-family: 'Roboto Condensed';
+  font-size: 1.2rem;
+  background-color: #EC1D24;
+}
+/*# sourceMappingURL=style.css.map */
