@@ -88,7 +88,7 @@ p {
   background-color: #EC1D24;
 }
 
-@media (max-width: 600px) {
+@media (min-width: 600px) {
   #header h1 {
     font-size: 3.5rem;
   }
