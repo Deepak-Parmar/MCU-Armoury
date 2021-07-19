@@ -50,11 +50,15 @@ p {
         min-width: 300px;
         background-color: grey;
         
-        img {transition: .3s;}
+        img {
+            transition: .3s;
+            height: 300px;
+            align-self: center;
+        }
 
         &:hover {
             img {
-                height: 105% !important;
+                height: 320px !important;
             }
         }
     }
@@ -64,4 +68,38 @@ p {
     font-family: 'Roboto Condensed';
     font-size: 1.2rem;
     background-color: #EC1D24;
+}
+
+@media (max-width: 600px) {
+
+    #header {
+        h1 {
+            font-size: 3.5rem;
+        }
+    }
+
+    #main {
+        .products {
+            flex-direction: column !important;
+            align-items: center !important;
+        }
+
+        .product-tile {
+            max-height: 470px;
+            max-width: 470px;
+            min-height: 470px;
+            min-width: 470px;
+
+            img {
+                height: 500px;
+                align-self: center;
+            }
+
+            &:hover {
+                img {
+                    height: 500px !important;
+                }
+            }
+        }
+    }
 }

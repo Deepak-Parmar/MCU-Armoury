@@ -20,9 +20,9 @@ function makeProductTile() {
 
                 $(".products").eq(row).append(
                     // Bootstrap code to create product tile
-                    `<div class="product-tile m-2 w-25 rounded overflow-hidden position-relative d-flex justify-content-center">
+                    `<div class="product-tile m-2 w-25 rounded overflow-hidden position-relative d-flex justify-content-center align-items-center">
                         <a href="product.html?product=`+ products[index].name +`" target="_blank">
-                            <img src="images/product-images/` + products[index].image + `" alt="`+ products[index].name +`" class="h-100" loading="lazy">
+                            <img src="images/product-images/` + products[index].image + `" alt="`+ products[index].name +`" loading="lazy" class="align-self-center">
                             <h5 class="product-name position-absolute bottom-0 start-0 p-3 text-uppercase">` + products[index].name + `</h5>
                         </a>
                     </div>`
@@ -34,7 +34,7 @@ function makeProductTile() {
                     // Bootstrap code to create product tile
                     `<div class="product-tile m-2 w-25 rounded overflow-hidden position-relative d-flex justify-content-center">
                         <a href="product.html?product=`+ products[index].name +`" target="_blank">
-                            <img src="images/product-images/` + products[index].image + `" alt="`+ products[index].name +`" class="h-100">
+                            <img src="images/product-images/` + products[index].image + `" alt="`+ products[index].name +`">
                             <h5 class="product-name position-absolute bottom-0 start-0 p-3 text-uppercase">` + products[index].name + `</h5>
                         </a>
                     </div>`
